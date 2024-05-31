@@ -26,9 +26,13 @@ Asynchronous Operations: Uses async/await and Promises for handling asynchronous
 
 Technologies Used
 Node.js
+
 Express.js
+
 Bcrypt
+
 JWT (JSON Web Tokens)
+
 Nodemailer (for email notifications)
-Tap (for testing)
-Supertest (for API testing)
+
+
